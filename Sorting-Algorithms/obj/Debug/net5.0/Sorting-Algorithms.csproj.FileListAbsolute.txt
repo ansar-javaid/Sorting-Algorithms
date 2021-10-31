@@ -1,0 +1,16 @@
+C:\Users\Ansar\RiderProjects\Sorting-Algorithms\Sorting-Algorithms\bin\Debug\net5.0\Sorting-Algorithms.exe
+C:\Users\Ansar\RiderProjects\Sorting-Algorithms\Sorting-Algorithms\bin\Debug\net5.0\Sorting-Algorithms.deps.json
+C:\Users\Ansar\RiderProjects\Sorting-Algorithms\Sorting-Algorithms\bin\Debug\net5.0\Sorting-Algorithms.runtimeconfig.json
+C:\Users\Ansar\RiderProjects\Sorting-Algorithms\Sorting-Algorithms\bin\Debug\net5.0\Sorting-Algorithms.runtimeconfig.dev.json
+C:\Users\Ansar\RiderProjects\Sorting-Algorithms\Sorting-Algorithms\bin\Debug\net5.0\Sorting-Algorithms.dll
+C:\Users\Ansar\RiderProjects\Sorting-Algorithms\Sorting-Algorithms\bin\Debug\net5.0\ref\Sorting-Algorithms.dll
+C:\Users\Ansar\RiderProjects\Sorting-Algorithms\Sorting-Algorithms\bin\Debug\net5.0\Sorting-Algorithms.pdb
+C:\Users\Ansar\RiderProjects\Sorting-Algorithms\Sorting-Algorithms\obj\Debug\net5.0\Sorting-Algorithms.csproj.AssemblyReference.cache
+C:\Users\Ansar\RiderProjects\Sorting-Algorithms\Sorting-Algorithms\obj\Debug\net5.0\Sorting-Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ansar\RiderProjects\Sorting-Algorithms\Sorting-Algorithms\obj\Debug\net5.0\Sorting-Algorithms.AssemblyInfoInputs.cache
+C:\Users\Ansar\RiderProjects\Sorting-Algorithms\Sorting-Algorithms\obj\Debug\net5.0\Sorting-Algorithms.AssemblyInfo.cs
+C:\Users\Ansar\RiderProjects\Sorting-Algorithms\Sorting-Algorithms\obj\Debug\net5.0\Sorting-Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Ansar\RiderProjects\Sorting-Algorithms\Sorting-Algorithms\obj\Debug\net5.0\Sorting-Algorithms.dll
+C:\Users\Ansar\RiderProjects\Sorting-Algorithms\Sorting-Algorithms\obj\Debug\net5.0\ref\Sorting-Algorithms.dll
+C:\Users\Ansar\RiderProjects\Sorting-Algorithms\Sorting-Algorithms\obj\Debug\net5.0\Sorting-Algorithms.pdb
+C:\Users\Ansar\RiderProjects\Sorting-Algorithms\Sorting-Algorithms\obj\Debug\net5.0\Sorting-Algorithms.genruntimeconfig.cache
